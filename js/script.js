@@ -80,6 +80,7 @@
 
 console.log(true || false);
 console.log(true && false);
+console.log(true && true || false);
 
 const isChecked = true;
 const isClose = true;
