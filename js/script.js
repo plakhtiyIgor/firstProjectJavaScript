@@ -1,4 +1,5 @@
 // let number = 4.6;
+// let number2 = 5
 
 // console.log(-4 / 0);
 // console.log("string" * 3);
